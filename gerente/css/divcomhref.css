@@ -1,0 +1,9 @@
+.divcomlink {
+	display: block;
+	text-decoration:0 none;
+	outline: 0 none;
+  	font-family: inherit;
+  	font-weight: bold;
+  	line-height: 1.2;
+  	color: inherit;
+}

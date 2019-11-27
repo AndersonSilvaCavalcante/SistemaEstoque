@@ -1,0 +1,24 @@
+@font-face {
+        font-family: 'Sweet Hipster';
+      src: url('fonts/Sweet Hipster.ttf');
+        src: local('Sweet Hipster'), url('Sweet Hipster.woff') format('truetype');
+    }
+    .textologo{
+        font-family: Sweet Hipster;
+        font-size: 2.3rem;
+        color: #fff;
+    }
+    .textolog{
+        font-family: Sweet Hipster;
+        color: #117a8b;
+    }
+    .texto{
+        font-family: arial;
+        color: #fff;
+    }
+    .errost{
+        font-family: Sweet Hipster;
+        font-size: 5rem;
+        color: #117a8b;
+    }
+}
